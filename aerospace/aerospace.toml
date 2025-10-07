@@ -69,7 +69,7 @@ preset = 'qwerty'
 inner.horizontal = 8
 inner.vertical = 8
 outer.bottom = 5
-outer.top = [{ monitor.main = 8}, 8]
+outer.top = [{ monitor.main = 8}, 46]
 outer.right = 5
 outer.left = 5
 
